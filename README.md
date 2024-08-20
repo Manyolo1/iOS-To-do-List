@@ -1,6 +1,6 @@
-# To-DoIt
+# Todoey
 
-To-DoIt is a SwiftUI-based To-Do List application that allows users to manage their tasks efficiently. The app supports local data storage using Core Data, enabling users to perform CRUD (Create, Read, Update, Delete) operations on their tasks.
+Todoey is a SwiftUI-based To-Do List application that allows users to manage their tasks efficiently. The app supports local data storage using Core Data, enabling users to perform CRUD (Create, Read, Update, Delete) operations on their tasks.
 
 ## Features
 
