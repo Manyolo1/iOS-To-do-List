@@ -29,6 +29,10 @@ Todoey is a SwiftUI-based To-Do List application that allows users to manage the
 - **Login**: Existing users can log in with their email and password.
 - **Manage Tasks**: Once logged in, users can start managing their tasks through the app's intuitive interface.
 
+## Quick Demo !
+https://youtu.be/ATqqFRMi2YA
+
+
 ## Technologies Used
 
 - **SwiftUI**: For building the user interface.
