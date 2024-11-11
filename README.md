@@ -53,5 +53,8 @@ Contributions are welcome! Please follow these steps:
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Your Name** - [manya.saini.projects@gmail.com](mailto:manya.saini.projects@gmail.com)
-- GitHub: [Manyolo1](https://github.com/Manyolo1)
+
+*manyolo*
+
+:)
+
